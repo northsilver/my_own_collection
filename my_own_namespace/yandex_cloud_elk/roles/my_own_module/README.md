@@ -1,7 +1,7 @@
 MY-OWN-MODULE
 =========
 
-Lab [module]()
+Lab [module](https://github.com/northsilver/my_own_collection/blob/master/my_own_namespace/yandex_cloud_elk/plugins/modules/my_own_module.py)
 
 Requirements
 ------------
