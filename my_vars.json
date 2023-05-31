@@ -1,0 +1,6 @@
+{
+    "ANSIBLE_MODULE_ARGS": {
+        "path": "/home/ivan/proj/my_own_collection/check.module.md",
+        "content": "Worked"
+    }
+}
