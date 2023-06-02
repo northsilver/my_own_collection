@@ -12,6 +12,15 @@ Role Variables
 | path | define path for file
 | content | define text in file
 
+Example Playbook
+----------------
+
+[Collection](https://github.com/northsilver/my_own_collection/blob/1.0.0/single_role_collection.yml)
+
+        - name: Test my_own_module
+          hosts: localhost
+          roles:
+            - role: netology.yandex_cloud_elk.my_own_module
 
 License
 -------
