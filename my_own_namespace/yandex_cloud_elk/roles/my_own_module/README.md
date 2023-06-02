@@ -46,4 +46,5 @@ MIT
 
 Author Information
 ------------------
+
 Created by [Ivan Shumbasov](https://github.com/northsilver)
